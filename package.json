@@ -40,12 +40,14 @@
   },
   "dependencies": {
     "@auth0/auth0-react": "^1.12.0",
+    "@react-navigation/drawer": "^6.6.2",
     "@redux-devtools/extension": "^3.2.3",
     "express": "^4.17.2",
     "express-jwt": "^8.4.1",
     "jwks-rsa": "^3.0.1",
     "knex": "^2.3.0",
     "pg": "^8.8.0",
+    "react-native": "^0.71.7",
     "sqlite3": "^5.1.2",
     "superagent": "7.1.1"
   },
@@ -84,7 +86,7 @@
     "postcss-loader": "^7.1.0",
     "postcss-preset-env": "^8.0.1",
     "prettier-plugin-tailwindcss": "^0.2.5",
-    "react": "^18.0.2",
+    "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-redux": "^8.0.4",
     "react-router-dom": "^6.4.2",
