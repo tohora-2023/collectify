@@ -40,12 +40,18 @@
   },
   "dependencies": {
     "@auth0/auth0-react": "^1.12.0",
+    "@react-navigation/bottom-tabs": "^6.5.7",
+    "@react-navigation/drawer": "^6.6.2",
+    "@react-navigation/native": "^6.1.6",
+    "@react-navigation/stack": "^6.3.16",
     "@redux-devtools/extension": "^3.2.3",
     "express": "^4.17.2",
     "express-jwt": "^8.4.1",
     "jwks-rsa": "^3.0.1",
     "knex": "^2.3.0",
     "pg": "^8.8.0",
+    "react-native-gesture-handler": "^2.9.0",
+    "react-native-reanimated": "^3.1.0",
     "sqlite3": "^5.1.2",
     "superagent": "7.1.1"
   },
