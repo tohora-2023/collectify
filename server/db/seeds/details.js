@@ -9,7 +9,7 @@ exports.seed = async function (knex) {
     {
       id: 1,
       name: 'Dune',
-      collections_id: 1,
+      collection_id: 1,
       creator: 'Denis Villeneuve',
       genre: 'Sci-Fi',
       details:
@@ -23,7 +23,7 @@ exports.seed = async function (knex) {
     {
       id: 2,
       name: 'Crime and Punishment',
-      collections_id: 2,
+      collection_id: 2,
       creator: 'Fyodor Dostoevsky',
       genre: 'crime fiction',
       details:
@@ -37,7 +37,7 @@ exports.seed = async function (knex) {
     {
       id: 3,
       name: 'Caress your soul',
-      collections_id: 3,
+      collection_id: 3,
       creator: 'Sticky Fingers',
       genre: 'indie',
       details: 'sick beats',
